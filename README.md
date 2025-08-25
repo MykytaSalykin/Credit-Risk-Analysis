@@ -17,9 +17,5 @@ This project analyzes credit default risks using Home Credit datasets from Kaggl
 ## Tools
 - Python, Pandas, Seaborn, Matplotlib
 
-## Next Steps
-- Add predictive modeling (e.g., logistic regression).
-- Explore more variables like credit history.
-
 ## Author
 - Mykyta Salykin
